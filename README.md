@@ -1,4 +1,4 @@
-![logo](https://github.com/kumar1284/kumar1284/tree/main/Github%20Banner%20png)
+
 <h1 align="center">Hi 👋, I'm KUMAR ADAMAPURE</h1>
 <h3 align="center">A passionate Data Analysis from India</h3>
 
